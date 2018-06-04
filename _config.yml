@@ -5,11 +5,11 @@ url: "https://UofABioinformaticsHub.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: assets/img/avatar.png
+  title: UofA Bioinformatics Hub
+  avatar: assets/img/UoA_logo_col_vert.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "University of Adelaide's Bioinformatics Hub" # used by search engines
 
   # Header and footer text
   header_text: >
