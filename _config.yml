@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: ""
+url: "https://UofABioinformaticsHub.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "UofABioinformaticsHub"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -39,7 +39,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "uofabioinfohub"
   wordpress:
   youtube:
 
